@@ -1,0 +1,2 @@
+dataset,data_type,period_utc,interval,assets,scenario
+Secondary Mill 01 predictive-maintenance demo,SIMULATED — not plant data,2026-06-24T12:00:00+00:00 to 2026-09-22T12:00:00+00:00,15 minutes,"Motor NDE Bearing, Motor DE Bearing, Pinion NDE Bearing, Pinion DE Bearing, Mill Shaft NDE Bearing, Mill Shaft DE Bearing, Gearbox","DE Pinion Bearing gradual deterioration from day 46, planned maintenance around day 76, then post-maintenance improvement"

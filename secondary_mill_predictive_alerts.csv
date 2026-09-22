@@ -1,0 +1,5 @@
+timestamp,asset,severity,evidence,recommended_action,status
+2026-09-06T08:00:00+00:00,Pinion DE Bearing,Advisory,Vibration and temperature trend above simulated baseline,Inspect during next planned shutdown,Open
+2026-09-15T08:00:00+00:00,Pinion DE Bearing,Warning,Sustained vibration and temperature increase with lubrication-flow variability,Schedule inspection and lubrication-system review,Open
+2026-09-17T06:00:00+00:00,Secondary Mill 01,Planned Shutdown,Simulated planned maintenance window,"Inspect DE Pinion Bearing, lubrication flow and alignment",Planned
+2026-09-18T12:00:00+00:00,Pinion DE Bearing,Maintenance,Simulated inspection and lubrication intervention completed,Monitor post-maintenance trend,Closed

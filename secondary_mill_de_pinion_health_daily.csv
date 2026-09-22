@@ -1,0 +1,92 @@
+date,avg_temperature_c,avg_vibration_mm_s,health_score,condition,recommended_action
+2026-06-24,62.539375,2.8533333333333335,94,Normal,Continue routine monitoring
+2026-06-25,61.10145833333333,2.7538541666666667,94,Normal,Continue routine monitoring
+2026-06-26,60.0290625,2.6313541666666667,93,Normal,Continue routine monitoring
+2026-06-27,59.98291666666666,2.6191666666666666,93,Normal,Continue routine monitoring
+2026-06-28,59.301770833333336,2.7028125000000003,93,Normal,Continue routine monitoring
+2026-06-29,58.89864583333334,2.6865625000000004,93,Normal,Continue routine monitoring
+2026-06-30,60.77041666666667,2.6888541666666668,92,Normal,Continue routine monitoring
+2026-07-01,58.83197916666666,2.4495833333333334,92,Normal,Continue routine monitoring
+2026-07-02,59.60958333333334,2.687708333333333,92,Normal,Continue routine monitoring
+2026-07-03,59.90875,2.743854166666667,92,Normal,Continue routine monitoring
+2026-07-04,58.97927083333334,2.6085416666666665,92,Normal,Continue routine monitoring
+2026-07-05,59.649375,2.6103125,92,Normal,Continue routine monitoring
+2026-07-06,61.23114583333333,2.760104166666667,92,Normal,Continue routine monitoring
+2026-07-07,60.01447916666667,2.6787500000000004,92,Normal,Continue routine monitoring
+2026-07-08,59.557812500000004,2.595520833333333,92,Normal,Continue routine monitoring
+2026-07-09,57.69052083333333,2.500625,92,Normal,Continue routine monitoring
+2026-07-10,58.98208333333333,2.7060416666666662,92,Normal,Continue routine monitoring
+2026-07-11,60.51479166666667,2.692604166666667,93,Normal,Continue routine monitoring
+2026-07-12,60.92072916666667,2.6225,93,Normal,Continue routine monitoring
+2026-07-13,59.52072916666666,2.6285416666666666,93,Normal,Continue routine monitoring
+2026-07-14,59.78395833333334,2.7592708333333333,93,Normal,Continue routine monitoring
+2026-07-15,59.19989583333333,2.6470833333333332,94,Normal,Continue routine monitoring
+2026-07-16,59.508229166666666,2.574375,94,Normal,Continue routine monitoring
+2026-07-17,61.21114583333334,2.7254166666666664,94,Normal,Continue routine monitoring
+2026-07-18,60.270520833333336,2.703125,95,Normal,Continue routine monitoring
+2026-07-19,59.450208333333336,2.6220833333333333,95,Normal,Continue routine monitoring
+2026-07-20,59.66395833333333,2.6394791666666664,95,Normal,Continue routine monitoring
+2026-07-21,59.08770833333333,2.6766666666666663,95,Normal,Continue routine monitoring
+2026-07-22,44.465624999999996,1.4008333333333332,96,Normal,Continue routine monitoring
+2026-07-23,55.13218749999999,2.1501041666666665,96,Normal,Continue routine monitoring
+2026-07-24,59.51333333333333,2.6054166666666667,96,Normal,Continue routine monitoring
+2026-07-25,59.5375,2.7348958333333333,96,Normal,Continue routine monitoring
+2026-07-26,59.43958333333333,2.7036458333333333,96,Normal,Continue routine monitoring
+2026-07-27,59.408125000000005,2.565208333333333,96,Normal,Continue routine monitoring
+2026-07-28,60.52791666666667,2.611145833333333,96,Normal,Continue routine monitoring
+2026-07-29,60.463125,2.7358333333333333,96,Normal,Continue routine monitoring
+2026-07-30,59.25427083333333,2.6564583333333336,96,Normal,Continue routine monitoring
+2026-07-31,59.7309375,2.639375,96,Normal,Continue routine monitoring
+2026-08-01,59.291979166666664,2.67,96,Normal,Continue routine monitoring
+2026-08-02,60.12260416666667,2.7140625000000003,95,Normal,Continue routine monitoring
+2026-08-03,61.331875,2.6855208333333334,95,Normal,Continue routine monitoring
+2026-08-04,59.5871875,2.584791666666667,95,Normal,Continue routine monitoring
+2026-08-05,57.433125,2.531875,95,Normal,Continue routine monitoring
+2026-08-06,59.61260416666667,2.7552083333333335,94,Normal,Continue routine monitoring
+2026-08-07,59.47802083333334,2.6138541666666666,94,Normal,Continue routine monitoring
+2026-08-08,60.9828125,2.6396875,88,Normal,Continue routine monitoring
+2026-08-09,61.12708333333333,2.8294791666666668,87,Normal,Continue routine monitoring
+2026-08-10,59.82385416666667,2.8723958333333335,86,Normal,Continue routine monitoring
+2026-08-11,60.68604166666666,2.9378124999999997,85,Normal,Continue routine monitoring
+2026-08-12,60.942499999999995,3.0545833333333334,84,Normal,Continue routine monitoring
+2026-08-13,61.71291666666667,3.2036458333333333,83,Normal,Continue routine monitoring
+2026-08-14,63.3603125,3.314375,82,Normal,Continue routine monitoring
+2026-08-15,61.93927083333333,3.2587499999999996,81,Normal,Continue routine monitoring
+2026-08-16,60.896770833333335,3.3506250000000004,80,Normal,Continue routine monitoring
+2026-08-17,62.84979166666667,3.6497916666666668,79,Watch,Inspect during next planned shutdown
+2026-08-18,62.8946875,3.6508333333333334,78,Watch,Inspect during next planned shutdown
+2026-08-19,64.47927083333333,3.699895833333333,77,Watch,Inspect during next planned shutdown
+2026-08-20,65.08177083333334,3.8966666666666665,76,Watch,Inspect during next planned shutdown
+2026-08-21,63.614375,3.99875,75,Watch,Inspect during next planned shutdown
+2026-08-22,62.018541666666664,3.8246875,74,Watch,Inspect during next planned shutdown
+2026-08-23,64.88197916666667,4.116145833333333,73,Watch,Inspect during next planned shutdown
+2026-08-24,65.2284375,4.253229166666666,72,Watch,Inspect during next planned shutdown
+2026-08-25,67.059375,4.448645833333333,71,Watch,Inspect during next planned shutdown
+2026-08-26,66.3490625,4.435208333333333,70,Watch,Inspect during next planned shutdown
+2026-08-27,65.42604166666666,4.476770833333333,69,Watch,Inspect during next planned shutdown
+2026-08-28,66.70489583333334,4.740520833333333,68,Watch,Inspect during next planned shutdown
+2026-08-29,66.838125,4.797395833333334,67,Watch,Inspect during next planned shutdown
+2026-08-30,67.09625,4.6959375,66,Watch,Inspect during next planned shutdown
+2026-08-31,68.92812500000001,4.962604166666666,65,Watch,Inspect during next planned shutdown
+2026-09-01,67.43197916666666,5.109270833333333,64,Investigate,Schedule inspection and lubrication review
+2026-09-02,67.689375,5.191770833333334,63,Investigate,Schedule inspection and lubrication review
+2026-09-03,68.4728125,5.172083333333333,62,Investigate,Schedule inspection and lubrication review
+2026-09-04,67.87447916666666,5.146770833333333,61,Investigate,Schedule inspection and lubrication review
+2026-09-05,70.61093749999999,5.567708333333333,60,Investigate,Schedule inspection and lubrication review
+2026-09-06,70.32000000000001,5.587812499999999,59,Investigate,Schedule inspection and lubrication review
+2026-09-07,69.07947916666667,5.5640624999999995,58,Investigate,Schedule inspection and lubrication review
+2026-09-08,49.04750000000001,2.7759375,58,Investigate,Schedule inspection and lubrication review
+2026-09-09,41.395208333333336,1.6890625000000001,65,Watch,Inspect during next planned shutdown
+2026-09-10,69.85635416666666,5.454166666666667,67,Watch,Inspect during next planned shutdown
+2026-09-11,70.18302083333333,5.270208333333334,69,Watch,Inspect during next planned shutdown
+2026-09-12,67.85968749999999,5.129791666666667,71,Watch,Inspect during next planned shutdown
+2026-09-13,66.65052083333333,4.981145833333334,73,Watch,Inspect during next planned shutdown
+2026-09-14,67.11885416666667,4.742291666666667,75,Watch,Inspect during next planned shutdown
+2026-09-15,66.46822916666666,4.463333333333334,77,Watch,Inspect during next planned shutdown
+2026-09-16,66.58666666666666,4.404583333333333,79,Watch,Inspect during next planned shutdown
+2026-09-17,65.75697916666667,4.2525,81,Normal,Continue routine monitoring
+2026-09-18,63.2359375,3.928854166666667,83,Normal,Continue routine monitoring
+2026-09-19,63.41322916666667,3.7782291666666663,85,Normal,Continue routine monitoring
+2026-09-20,63.490208333333335,3.7091666666666665,87,Normal,Continue routine monitoring
+2026-09-21,62.77135416666667,3.4423958333333338,89,Normal,Continue routine monitoring
+2026-09-22,61.009795918367345,3.0769387755102042,91,Normal,Continue routine monitoring
