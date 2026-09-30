@@ -1,0 +1,5 @@
+timestamp,asset,severity,evidence,recommended_action,status
+2026-08-18T08:00:00+00:00,Pinion DE Bearing,Warning,Vibration and temperature trend above normal baseline,Prepare inspection and confirm bearing spares,Open
+2026-08-30T10:00:00+00:00,Mill Shaft DE Bearing,Advisory,Health score deterioration with lubrication context,Plan inspection at next maintenance opportunity,Open
+2026-09-08T09:00:00+00:00,Gearbox,Advisory,Condition trend outside normal operating baseline,Inspect gearbox lubrication and vibration trend,Open
+2026-09-15T11:00:00+00:00,Pinion DE Bearing,Critical,Health score below urgent review threshold,Prepare controlled shutdown and urgent bearing inspection,Open

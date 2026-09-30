@@ -1,0 +1,729 @@
+date,asset,health_score,condition,recommended_action
+2026-06-24,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-06-25,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-06-26,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-06-27,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-06-28,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-06-29,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-06-30,Motor NDE Bearing,94,Normal,Continue routine monitoring
+2026-07-01,Motor NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-02,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-07-03,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-04,Motor NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-05,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-06,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-07,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-08,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-09,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-07-10,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-11,Motor NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-12,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-13,Motor NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-14,Motor NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-15,Motor NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-16,Motor NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-17,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-18,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-07-19,Motor NDE Bearing,98,Normal,Continue routine monitoring
+2026-07-20,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-21,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-22,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-23,Motor NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-24,Motor NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-25,Motor NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-26,Motor NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-27,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-28,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-29,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-07-30,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-31,Motor NDE Bearing,97,Normal,Continue routine monitoring
+2026-08-01,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-02,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-08-03,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-08-04,Motor NDE Bearing,97,Normal,Continue routine monitoring
+2026-08-05,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-06,Motor NDE Bearing,97,Normal,Continue routine monitoring
+2026-08-07,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-08-08,Motor NDE Bearing,97,Normal,Continue routine monitoring
+2026-08-09,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-08-10,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-11,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-08-12,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-13,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-08-14,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-15,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-08-16,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-08-17,Motor NDE Bearing,97,Normal,Continue routine monitoring
+2026-08-18,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-19,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-08-20,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-08-21,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-22,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-23,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-24,Motor NDE Bearing,94,Normal,Continue routine monitoring
+2026-08-25,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-26,Motor NDE Bearing,94,Normal,Continue routine monitoring
+2026-08-27,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-28,Motor NDE Bearing,94,Normal,Continue routine monitoring
+2026-08-29,Motor NDE Bearing,94,Normal,Continue routine monitoring
+2026-08-30,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-08-31,Motor NDE Bearing,94,Normal,Continue routine monitoring
+2026-09-01,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-09-02,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-09-03,Motor NDE Bearing,94,Normal,Continue routine monitoring
+2026-09-04,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-09-05,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-09-06,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-09-07,Motor NDE Bearing,96,Normal,Continue routine monitoring
+2026-09-08,Motor NDE Bearing,93,Normal,Continue routine monitoring
+2026-09-09,Motor NDE Bearing,94,Normal,Continue routine monitoring
+2026-09-10,Motor NDE Bearing,97,Normal,Continue routine monitoring
+2026-09-11,Motor NDE Bearing,94,Normal,Continue routine monitoring
+2026-09-12,Motor NDE Bearing,94,Normal,Continue routine monitoring
+2026-09-13,Motor NDE Bearing,95,Normal,Continue routine monitoring
+2026-09-14,Motor NDE Bearing,94,Normal,Continue routine monitoring
+2026-09-15,Motor NDE Bearing,94,Normal,Continue routine monitoring
+2026-09-16,Motor NDE Bearing,94,Normal,Continue routine monitoring
+2026-09-17,Motor NDE Bearing,93,Normal,Continue routine monitoring
+2026-09-18,Motor NDE Bearing,93,Normal,Continue routine monitoring
+2026-09-19,Motor NDE Bearing,93,Normal,Continue routine monitoring
+2026-09-20,Motor NDE Bearing,93,Normal,Continue routine monitoring
+2026-09-21,Motor NDE Bearing,94,Normal,Continue routine monitoring
+2026-09-22,Motor NDE Bearing,93,Normal,Continue routine monitoring
+2026-06-24,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-06-25,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-06-26,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-06-27,Motor DE Bearing,97,Normal,Continue routine monitoring
+2026-06-28,Motor DE Bearing,97,Normal,Continue routine monitoring
+2026-06-29,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-06-30,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-07-01,Motor DE Bearing,94,Normal,Continue routine monitoring
+2026-07-02,Motor DE Bearing,95,Normal,Continue routine monitoring
+2026-07-03,Motor DE Bearing,95,Normal,Continue routine monitoring
+2026-07-04,Motor DE Bearing,95,Normal,Continue routine monitoring
+2026-07-05,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-07-06,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-07-07,Motor DE Bearing,97,Normal,Continue routine monitoring
+2026-07-08,Motor DE Bearing,97,Normal,Continue routine monitoring
+2026-07-09,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-07-10,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-07-11,Motor DE Bearing,98,Normal,Continue routine monitoring
+2026-07-12,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-07-13,Motor DE Bearing,97,Normal,Continue routine monitoring
+2026-07-14,Motor DE Bearing,97,Normal,Continue routine monitoring
+2026-07-15,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-07-16,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-07-17,Motor DE Bearing,97,Normal,Continue routine monitoring
+2026-07-18,Motor DE Bearing,95,Normal,Continue routine monitoring
+2026-07-19,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-07-20,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-07-21,Motor DE Bearing,95,Normal,Continue routine monitoring
+2026-07-22,Motor DE Bearing,95,Normal,Continue routine monitoring
+2026-07-23,Motor DE Bearing,97,Normal,Continue routine monitoring
+2026-07-24,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-07-25,Motor DE Bearing,95,Normal,Continue routine monitoring
+2026-07-26,Motor DE Bearing,97,Normal,Continue routine monitoring
+2026-07-27,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-07-28,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-07-29,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-07-30,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-07-31,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-08-01,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-08-02,Motor DE Bearing,95,Normal,Continue routine monitoring
+2026-08-03,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-08-04,Motor DE Bearing,97,Normal,Continue routine monitoring
+2026-08-05,Motor DE Bearing,95,Normal,Continue routine monitoring
+2026-08-06,Motor DE Bearing,97,Normal,Continue routine monitoring
+2026-08-07,Motor DE Bearing,94,Normal,Continue routine monitoring
+2026-08-08,Motor DE Bearing,95,Normal,Continue routine monitoring
+2026-08-09,Motor DE Bearing,95,Normal,Continue routine monitoring
+2026-08-10,Motor DE Bearing,94,Normal,Continue routine monitoring
+2026-08-11,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-08-12,Motor DE Bearing,95,Normal,Continue routine monitoring
+2026-08-13,Motor DE Bearing,95,Normal,Continue routine monitoring
+2026-08-14,Motor DE Bearing,94,Normal,Continue routine monitoring
+2026-08-15,Motor DE Bearing,95,Normal,Continue routine monitoring
+2026-08-16,Motor DE Bearing,94,Normal,Continue routine monitoring
+2026-08-17,Motor DE Bearing,95,Normal,Continue routine monitoring
+2026-08-18,Motor DE Bearing,94,Normal,Continue routine monitoring
+2026-08-19,Motor DE Bearing,94,Normal,Continue routine monitoring
+2026-08-20,Motor DE Bearing,95,Normal,Continue routine monitoring
+2026-08-21,Motor DE Bearing,95,Normal,Continue routine monitoring
+2026-08-22,Motor DE Bearing,94,Normal,Continue routine monitoring
+2026-08-23,Motor DE Bearing,93,Normal,Continue routine monitoring
+2026-08-24,Motor DE Bearing,94,Normal,Continue routine monitoring
+2026-08-25,Motor DE Bearing,93,Normal,Continue routine monitoring
+2026-08-26,Motor DE Bearing,96,Normal,Continue routine monitoring
+2026-08-27,Motor DE Bearing,94,Normal,Continue routine monitoring
+2026-08-28,Motor DE Bearing,93,Normal,Continue routine monitoring
+2026-08-29,Motor DE Bearing,93,Normal,Continue routine monitoring
+2026-08-30,Motor DE Bearing,94,Normal,Continue routine monitoring
+2026-08-31,Motor DE Bearing,94,Normal,Continue routine monitoring
+2026-09-01,Motor DE Bearing,93,Normal,Continue routine monitoring
+2026-09-02,Motor DE Bearing,94,Normal,Continue routine monitoring
+2026-09-03,Motor DE Bearing,94,Normal,Continue routine monitoring
+2026-09-04,Motor DE Bearing,92,Normal,Continue routine monitoring
+2026-09-05,Motor DE Bearing,94,Normal,Continue routine monitoring
+2026-09-06,Motor DE Bearing,92,Normal,Continue routine monitoring
+2026-09-07,Motor DE Bearing,92,Normal,Continue routine monitoring
+2026-09-08,Motor DE Bearing,93,Normal,Continue routine monitoring
+2026-09-09,Motor DE Bearing,92,Normal,Continue routine monitoring
+2026-09-10,Motor DE Bearing,92,Normal,Continue routine monitoring
+2026-09-11,Motor DE Bearing,91,Normal,Continue routine monitoring
+2026-09-12,Motor DE Bearing,92,Normal,Continue routine monitoring
+2026-09-13,Motor DE Bearing,91,Normal,Continue routine monitoring
+2026-09-14,Motor DE Bearing,91,Normal,Continue routine monitoring
+2026-09-15,Motor DE Bearing,91,Normal,Continue routine monitoring
+2026-09-16,Motor DE Bearing,92,Normal,Continue routine monitoring
+2026-09-17,Motor DE Bearing,92,Normal,Continue routine monitoring
+2026-09-18,Motor DE Bearing,92,Normal,Continue routine monitoring
+2026-09-19,Motor DE Bearing,91,Normal,Continue routine monitoring
+2026-09-20,Motor DE Bearing,91,Normal,Continue routine monitoring
+2026-09-21,Motor DE Bearing,90,Normal,Continue routine monitoring
+2026-09-22,Motor DE Bearing,92,Normal,Continue routine monitoring
+2026-06-24,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-06-25,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-06-26,Pinion NDE Bearing,97,Normal,Continue routine monitoring
+2026-06-27,Pinion NDE Bearing,95,Normal,Continue routine monitoring
+2026-06-28,Pinion NDE Bearing,97,Normal,Continue routine monitoring
+2026-06-29,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-06-30,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-01,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-02,Pinion NDE Bearing,98,Normal,Continue routine monitoring
+2026-07-03,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-04,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-05,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-06,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-07,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-08,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-09,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-10,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-11,Pinion NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-12,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-13,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-14,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-15,Pinion NDE Bearing,95,Normal,Continue routine monitoring
+2026-07-16,Pinion NDE Bearing,94,Normal,Continue routine monitoring
+2026-07-17,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-18,Pinion NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-19,Pinion NDE Bearing,95,Normal,Continue routine monitoring
+2026-07-20,Pinion NDE Bearing,95,Normal,Continue routine monitoring
+2026-07-21,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-22,Pinion NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-23,Pinion NDE Bearing,95,Normal,Continue routine monitoring
+2026-07-24,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-25,Pinion NDE Bearing,95,Normal,Continue routine monitoring
+2026-07-26,Pinion NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-27,Pinion NDE Bearing,95,Normal,Continue routine monitoring
+2026-07-28,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-29,Pinion NDE Bearing,98,Normal,Continue routine monitoring
+2026-07-30,Pinion NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-31,Pinion NDE Bearing,98,Normal,Continue routine monitoring
+2026-08-01,Pinion NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-02,Pinion NDE Bearing,97,Normal,Continue routine monitoring
+2026-08-03,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-08-04,Pinion NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-05,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-08-06,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-08-07,Pinion NDE Bearing,96,Normal,Continue routine monitoring
+2026-08-08,Pinion NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-09,Pinion NDE Bearing,94,Normal,Continue routine monitoring
+2026-08-10,Pinion NDE Bearing,94,Normal,Continue routine monitoring
+2026-08-11,Pinion NDE Bearing,94,Normal,Continue routine monitoring
+2026-08-12,Pinion NDE Bearing,94,Normal,Continue routine monitoring
+2026-08-13,Pinion NDE Bearing,93,Normal,Continue routine monitoring
+2026-08-14,Pinion NDE Bearing,93,Normal,Continue routine monitoring
+2026-08-15,Pinion NDE Bearing,93,Normal,Continue routine monitoring
+2026-08-16,Pinion NDE Bearing,92,Normal,Continue routine monitoring
+2026-08-17,Pinion NDE Bearing,90,Normal,Continue routine monitoring
+2026-08-18,Pinion NDE Bearing,92,Normal,Continue routine monitoring
+2026-08-19,Pinion NDE Bearing,92,Normal,Continue routine monitoring
+2026-08-20,Pinion NDE Bearing,91,Normal,Continue routine monitoring
+2026-08-21,Pinion NDE Bearing,90,Normal,Continue routine monitoring
+2026-08-22,Pinion NDE Bearing,90,Normal,Continue routine monitoring
+2026-08-23,Pinion NDE Bearing,90,Normal,Continue routine monitoring
+2026-08-24,Pinion NDE Bearing,88,Normal,Continue routine monitoring
+2026-08-25,Pinion NDE Bearing,88,Normal,Continue routine monitoring
+2026-08-26,Pinion NDE Bearing,88,Normal,Continue routine monitoring
+2026-08-27,Pinion NDE Bearing,87,Normal,Continue routine monitoring
+2026-08-28,Pinion NDE Bearing,87,Normal,Continue routine monitoring
+2026-08-29,Pinion NDE Bearing,87,Normal,Continue routine monitoring
+2026-08-30,Pinion NDE Bearing,85,Normal,Continue routine monitoring
+2026-08-31,Pinion NDE Bearing,86,Normal,Continue routine monitoring
+2026-09-01,Pinion NDE Bearing,83,Normal,Continue routine monitoring
+2026-09-02,Pinion NDE Bearing,87,Normal,Continue routine monitoring
+2026-09-03,Pinion NDE Bearing,83,Normal,Continue routine monitoring
+2026-09-04,Pinion NDE Bearing,84,Normal,Continue routine monitoring
+2026-09-05,Pinion NDE Bearing,82,Normal,Continue routine monitoring
+2026-09-06,Pinion NDE Bearing,82,Normal,Continue routine monitoring
+2026-09-07,Pinion NDE Bearing,83,Normal,Inspect at next planned shutdown
+2026-09-08,Pinion NDE Bearing,82,Normal,Inspect at next planned shutdown
+2026-09-09,Pinion NDE Bearing,82,Normal,Inspect at next planned shutdown
+2026-09-10,Pinion NDE Bearing,81,Normal,Inspect at next planned shutdown
+2026-09-11,Pinion NDE Bearing,79,Watch,Inspect at next planned shutdown
+2026-09-12,Pinion NDE Bearing,79,Watch,Inspect at next planned shutdown
+2026-09-13,Pinion NDE Bearing,79,Watch,Inspect at next planned shutdown
+2026-09-14,Pinion NDE Bearing,78,Watch,Inspect at next planned shutdown
+2026-09-15,Pinion NDE Bearing,78,Watch,Inspect at next planned shutdown
+2026-09-16,Pinion NDE Bearing,79,Watch,Inspect at next planned shutdown
+2026-09-17,Pinion NDE Bearing,78,Watch,Inspect at next planned shutdown
+2026-09-18,Pinion NDE Bearing,78,Watch,Inspect at next planned shutdown
+2026-09-19,Pinion NDE Bearing,79,Watch,Inspect at next planned shutdown
+2026-09-20,Pinion NDE Bearing,78,Watch,Inspect at next planned shutdown
+2026-09-21,Pinion NDE Bearing,76,Watch,Inspect at next planned shutdown
+2026-09-22,Pinion NDE Bearing,77,Watch,Inspect at next planned shutdown
+2026-06-24,Pinion DE Bearing,97,Normal,Continue routine monitoring
+2026-06-25,Pinion DE Bearing,96,Normal,Continue routine monitoring
+2026-06-26,Pinion DE Bearing,96,Normal,Continue routine monitoring
+2026-06-27,Pinion DE Bearing,95,Normal,Continue routine monitoring
+2026-06-28,Pinion DE Bearing,95,Normal,Continue routine monitoring
+2026-06-29,Pinion DE Bearing,95,Normal,Continue routine monitoring
+2026-06-30,Pinion DE Bearing,96,Normal,Continue routine monitoring
+2026-07-01,Pinion DE Bearing,95,Normal,Continue routine monitoring
+2026-07-02,Pinion DE Bearing,97,Normal,Continue routine monitoring
+2026-07-03,Pinion DE Bearing,97,Normal,Continue routine monitoring
+2026-07-04,Pinion DE Bearing,94,Normal,Continue routine monitoring
+2026-07-05,Pinion DE Bearing,95,Normal,Continue routine monitoring
+2026-07-06,Pinion DE Bearing,94,Normal,Continue routine monitoring
+2026-07-07,Pinion DE Bearing,95,Normal,Continue routine monitoring
+2026-07-08,Pinion DE Bearing,97,Normal,Continue routine monitoring
+2026-07-09,Pinion DE Bearing,96,Normal,Continue routine monitoring
+2026-07-10,Pinion DE Bearing,99,Normal,Continue routine monitoring
+2026-07-11,Pinion DE Bearing,97,Normal,Continue routine monitoring
+2026-07-12,Pinion DE Bearing,96,Normal,Continue routine monitoring
+2026-07-13,Pinion DE Bearing,95,Normal,Continue routine monitoring
+2026-07-14,Pinion DE Bearing,95,Normal,Continue routine monitoring
+2026-07-15,Pinion DE Bearing,97,Normal,Continue routine monitoring
+2026-07-16,Pinion DE Bearing,96,Normal,Continue routine monitoring
+2026-07-17,Pinion DE Bearing,96,Normal,Continue routine monitoring
+2026-07-18,Pinion DE Bearing,96,Normal,Continue routine monitoring
+2026-07-19,Pinion DE Bearing,95,Normal,Continue routine monitoring
+2026-07-20,Pinion DE Bearing,96,Normal,Continue routine monitoring
+2026-07-21,Pinion DE Bearing,94,Normal,Continue routine monitoring
+2026-07-22,Pinion DE Bearing,96,Normal,Continue routine monitoring
+2026-07-23,Pinion DE Bearing,96,Normal,Continue routine monitoring
+2026-07-24,Pinion DE Bearing,95,Normal,Continue routine monitoring
+2026-07-25,Pinion DE Bearing,95,Normal,Continue routine monitoring
+2026-07-26,Pinion DE Bearing,96,Normal,Continue routine monitoring
+2026-07-27,Pinion DE Bearing,97,Normal,Continue routine monitoring
+2026-07-28,Pinion DE Bearing,95,Normal,Continue routine monitoring
+2026-07-29,Pinion DE Bearing,96,Normal,Continue routine monitoring
+2026-07-30,Pinion DE Bearing,95,Normal,Continue routine monitoring
+2026-07-31,Pinion DE Bearing,96,Normal,Continue routine monitoring
+2026-08-01,Pinion DE Bearing,96,Normal,Continue routine monitoring
+2026-08-02,Pinion DE Bearing,97,Normal,Continue routine monitoring
+2026-08-03,Pinion DE Bearing,96,Normal,Continue routine monitoring
+2026-08-04,Pinion DE Bearing,96,Normal,Continue routine monitoring
+2026-08-05,Pinion DE Bearing,96,Normal,Continue routine monitoring
+2026-08-06,Pinion DE Bearing,94,Normal,Continue routine monitoring
+2026-08-07,Pinion DE Bearing,97,Normal,Continue routine monitoring
+2026-08-08,Pinion DE Bearing,95,Normal,Continue routine monitoring
+2026-08-09,Pinion DE Bearing,93,Normal,Continue routine monitoring
+2026-08-10,Pinion DE Bearing,90,Normal,Continue routine monitoring
+2026-08-11,Pinion DE Bearing,91,Normal,Continue routine monitoring
+2026-08-12,Pinion DE Bearing,89,Normal,Continue routine monitoring
+2026-08-13,Pinion DE Bearing,88,Normal,Continue routine monitoring
+2026-08-14,Pinion DE Bearing,86,Normal,Continue routine monitoring
+2026-08-15,Pinion DE Bearing,83,Normal,Continue routine monitoring
+2026-08-16,Pinion DE Bearing,83,Normal,Continue routine monitoring
+2026-08-17,Pinion DE Bearing,80,Normal,Continue routine monitoring
+2026-08-18,Pinion DE Bearing,79,Watch,Monitor trend
+2026-08-19,Pinion DE Bearing,78,Watch,Monitor trend
+2026-08-20,Pinion DE Bearing,78,Watch,Monitor trend
+2026-08-21,Pinion DE Bearing,75,Watch,Monitor trend
+2026-08-22,Pinion DE Bearing,74,Watch,Monitor trend
+2026-08-23,Pinion DE Bearing,73,Watch,Monitor trend
+2026-08-24,Pinion DE Bearing,73,Watch,Monitor trend
+2026-08-25,Pinion DE Bearing,70,Watch,Monitor trend
+2026-08-26,Pinion DE Bearing,67,Watch,Monitor trend
+2026-08-27,Pinion DE Bearing,67,Watch,Monitor trend
+2026-08-28,Pinion DE Bearing,66,Watch,Monitor trend
+2026-08-29,Pinion DE Bearing,64,Plan Maintenance,Monitor trend
+2026-08-30,Pinion DE Bearing,61,Plan Maintenance,Monitor trend
+2026-08-31,Pinion DE Bearing,61,Plan Maintenance,Monitor trend
+2026-09-01,Pinion DE Bearing,58,Plan Maintenance,Monitor trend
+2026-09-02,Pinion DE Bearing,58,Plan Maintenance,Monitor trend
+2026-09-03,Pinion DE Bearing,56,Plan Maintenance,Monitor trend
+2026-09-04,Pinion DE Bearing,56,Plan Maintenance,Monitor trend
+2026-09-05,Pinion DE Bearing,53,Plan Maintenance,Monitor trend
+2026-09-06,Pinion DE Bearing,51,Plan Maintenance,Monitor trend
+2026-09-07,Pinion DE Bearing,51,Plan Maintenance,Prepare controlled shutdown and urgent bearing inspection
+2026-09-08,Pinion DE Bearing,49,Plan Maintenance,Prepare controlled shutdown and urgent bearing inspection
+2026-09-09,Pinion DE Bearing,47,Plan Maintenance,Prepare controlled shutdown and urgent bearing inspection
+2026-09-10,Pinion DE Bearing,46,Plan Maintenance,Prepare controlled shutdown and urgent bearing inspection
+2026-09-11,Pinion DE Bearing,44,Plan Maintenance,Prepare controlled shutdown and urgent bearing inspection
+2026-09-12,Pinion DE Bearing,44,Plan Maintenance,Prepare controlled shutdown and urgent bearing inspection
+2026-09-13,Pinion DE Bearing,39,Urgent Review,Prepare controlled shutdown and urgent bearing inspection
+2026-09-14,Pinion DE Bearing,40,Plan Maintenance,Prepare controlled shutdown and urgent bearing inspection
+2026-09-15,Pinion DE Bearing,37,Urgent Review,Prepare controlled shutdown and urgent bearing inspection
+2026-09-16,Pinion DE Bearing,37,Urgent Review,Prepare controlled shutdown and urgent bearing inspection
+2026-09-17,Pinion DE Bearing,37,Urgent Review,Prepare controlled shutdown and urgent bearing inspection
+2026-09-18,Pinion DE Bearing,33,Urgent Review,Prepare controlled shutdown and urgent bearing inspection
+2026-09-19,Pinion DE Bearing,32,Urgent Review,Prepare controlled shutdown and urgent bearing inspection
+2026-09-20,Pinion DE Bearing,31,Urgent Review,Prepare controlled shutdown and urgent bearing inspection
+2026-09-21,Pinion DE Bearing,30,Urgent Review,Prepare controlled shutdown and urgent bearing inspection
+2026-09-22,Pinion DE Bearing,28,Urgent Review,Prepare controlled shutdown and urgent bearing inspection
+2026-06-24,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-06-25,Mill Shaft NDE Bearing,95,Normal,Continue routine monitoring
+2026-06-26,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-06-27,Mill Shaft NDE Bearing,97,Normal,Continue routine monitoring
+2026-06-28,Mill Shaft NDE Bearing,97,Normal,Continue routine monitoring
+2026-06-29,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-06-30,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-01,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-02,Mill Shaft NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-03,Mill Shaft NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-04,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-05,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-06,Mill Shaft NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-07,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-08,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-09,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-10,Mill Shaft NDE Bearing,95,Normal,Continue routine monitoring
+2026-07-11,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-12,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-13,Mill Shaft NDE Bearing,95,Normal,Continue routine monitoring
+2026-07-14,Mill Shaft NDE Bearing,95,Normal,Continue routine monitoring
+2026-07-15,Mill Shaft NDE Bearing,98,Normal,Continue routine monitoring
+2026-07-16,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-17,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-18,Mill Shaft NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-19,Mill Shaft NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-20,Mill Shaft NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-21,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-22,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-23,Mill Shaft NDE Bearing,95,Normal,Continue routine monitoring
+2026-07-24,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-25,Mill Shaft NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-26,Mill Shaft NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-27,Mill Shaft NDE Bearing,95,Normal,Continue routine monitoring
+2026-07-28,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-29,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-07-30,Mill Shaft NDE Bearing,97,Normal,Continue routine monitoring
+2026-07-31,Mill Shaft NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-01,Mill Shaft NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-02,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-08-03,Mill Shaft NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-04,Mill Shaft NDE Bearing,97,Normal,Continue routine monitoring
+2026-08-05,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-08-06,Mill Shaft NDE Bearing,94,Normal,Continue routine monitoring
+2026-08-07,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-08-08,Mill Shaft NDE Bearing,94,Normal,Continue routine monitoring
+2026-08-09,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-08-10,Mill Shaft NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-11,Mill Shaft NDE Bearing,96,Normal,Continue routine monitoring
+2026-08-12,Mill Shaft NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-13,Mill Shaft NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-14,Mill Shaft NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-15,Mill Shaft NDE Bearing,94,Normal,Continue routine monitoring
+2026-08-16,Mill Shaft NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-17,Mill Shaft NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-18,Mill Shaft NDE Bearing,94,Normal,Continue routine monitoring
+2026-08-19,Mill Shaft NDE Bearing,94,Normal,Continue routine monitoring
+2026-08-20,Mill Shaft NDE Bearing,93,Normal,Continue routine monitoring
+2026-08-21,Mill Shaft NDE Bearing,93,Normal,Continue routine monitoring
+2026-08-22,Mill Shaft NDE Bearing,94,Normal,Continue routine monitoring
+2026-08-23,Mill Shaft NDE Bearing,94,Normal,Continue routine monitoring
+2026-08-24,Mill Shaft NDE Bearing,93,Normal,Continue routine monitoring
+2026-08-25,Mill Shaft NDE Bearing,93,Normal,Continue routine monitoring
+2026-08-26,Mill Shaft NDE Bearing,95,Normal,Continue routine monitoring
+2026-08-27,Mill Shaft NDE Bearing,92,Normal,Continue routine monitoring
+2026-08-28,Mill Shaft NDE Bearing,94,Normal,Continue routine monitoring
+2026-08-29,Mill Shaft NDE Bearing,93,Normal,Continue routine monitoring
+2026-08-30,Mill Shaft NDE Bearing,94,Normal,Continue routine monitoring
+2026-08-31,Mill Shaft NDE Bearing,92,Normal,Continue routine monitoring
+2026-09-01,Mill Shaft NDE Bearing,93,Normal,Continue routine monitoring
+2026-09-02,Mill Shaft NDE Bearing,92,Normal,Continue routine monitoring
+2026-09-03,Mill Shaft NDE Bearing,92,Normal,Continue routine monitoring
+2026-09-04,Mill Shaft NDE Bearing,92,Normal,Continue routine monitoring
+2026-09-05,Mill Shaft NDE Bearing,91,Normal,Continue routine monitoring
+2026-09-06,Mill Shaft NDE Bearing,92,Normal,Continue routine monitoring
+2026-09-07,Mill Shaft NDE Bearing,91,Normal,Continue routine monitoring
+2026-09-08,Mill Shaft NDE Bearing,93,Normal,Continue routine monitoring
+2026-09-09,Mill Shaft NDE Bearing,91,Normal,Continue routine monitoring
+2026-09-10,Mill Shaft NDE Bearing,91,Normal,Continue routine monitoring
+2026-09-11,Mill Shaft NDE Bearing,90,Normal,Continue routine monitoring
+2026-09-12,Mill Shaft NDE Bearing,93,Normal,Continue routine monitoring
+2026-09-13,Mill Shaft NDE Bearing,91,Normal,Continue routine monitoring
+2026-09-14,Mill Shaft NDE Bearing,89,Normal,Continue routine monitoring
+2026-09-15,Mill Shaft NDE Bearing,89,Normal,Continue routine monitoring
+2026-09-16,Mill Shaft NDE Bearing,89,Normal,Continue routine monitoring
+2026-09-17,Mill Shaft NDE Bearing,90,Normal,Continue routine monitoring
+2026-09-18,Mill Shaft NDE Bearing,89,Normal,Continue routine monitoring
+2026-09-19,Mill Shaft NDE Bearing,90,Normal,Continue routine monitoring
+2026-09-20,Mill Shaft NDE Bearing,88,Normal,Continue routine monitoring
+2026-09-21,Mill Shaft NDE Bearing,89,Normal,Continue routine monitoring
+2026-09-22,Mill Shaft NDE Bearing,88,Normal,Continue routine monitoring
+2026-06-24,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-06-25,Mill Shaft DE Bearing,95,Normal,Continue routine monitoring
+2026-06-26,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-06-27,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-06-28,Mill Shaft DE Bearing,95,Normal,Continue routine monitoring
+2026-06-29,Mill Shaft DE Bearing,95,Normal,Continue routine monitoring
+2026-06-30,Mill Shaft DE Bearing,95,Normal,Continue routine monitoring
+2026-07-01,Mill Shaft DE Bearing,97,Normal,Continue routine monitoring
+2026-07-02,Mill Shaft DE Bearing,95,Normal,Continue routine monitoring
+2026-07-03,Mill Shaft DE Bearing,95,Normal,Continue routine monitoring
+2026-07-04,Mill Shaft DE Bearing,98,Normal,Continue routine monitoring
+2026-07-05,Mill Shaft DE Bearing,97,Normal,Continue routine monitoring
+2026-07-06,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-07-07,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-07-08,Mill Shaft DE Bearing,97,Normal,Continue routine monitoring
+2026-07-09,Mill Shaft DE Bearing,95,Normal,Continue routine monitoring
+2026-07-10,Mill Shaft DE Bearing,95,Normal,Continue routine monitoring
+2026-07-11,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-07-12,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-07-13,Mill Shaft DE Bearing,95,Normal,Continue routine monitoring
+2026-07-14,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-07-15,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-07-16,Mill Shaft DE Bearing,95,Normal,Continue routine monitoring
+2026-07-17,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-07-18,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-07-19,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-07-20,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-07-21,Mill Shaft DE Bearing,95,Normal,Continue routine monitoring
+2026-07-22,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-07-23,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-07-24,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-07-25,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-07-26,Mill Shaft DE Bearing,95,Normal,Continue routine monitoring
+2026-07-27,Mill Shaft DE Bearing,97,Normal,Continue routine monitoring
+2026-07-28,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-07-29,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-07-30,Mill Shaft DE Bearing,95,Normal,Continue routine monitoring
+2026-07-31,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-08-01,Mill Shaft DE Bearing,95,Normal,Continue routine monitoring
+2026-08-02,Mill Shaft DE Bearing,95,Normal,Continue routine monitoring
+2026-08-03,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-08-04,Mill Shaft DE Bearing,94,Normal,Continue routine monitoring
+2026-08-05,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-08-06,Mill Shaft DE Bearing,96,Normal,Continue routine monitoring
+2026-08-07,Mill Shaft DE Bearing,95,Normal,Continue routine monitoring
+2026-08-08,Mill Shaft DE Bearing,95,Normal,Continue routine monitoring
+2026-08-09,Mill Shaft DE Bearing,94,Normal,Continue routine monitoring
+2026-08-10,Mill Shaft DE Bearing,94,Normal,Continue routine monitoring
+2026-08-11,Mill Shaft DE Bearing,93,Normal,Continue routine monitoring
+2026-08-12,Mill Shaft DE Bearing,93,Normal,Continue routine monitoring
+2026-08-13,Mill Shaft DE Bearing,91,Normal,Continue routine monitoring
+2026-08-14,Mill Shaft DE Bearing,90,Normal,Continue routine monitoring
+2026-08-15,Mill Shaft DE Bearing,90,Normal,Continue routine monitoring
+2026-08-16,Mill Shaft DE Bearing,89,Normal,Continue routine monitoring
+2026-08-17,Mill Shaft DE Bearing,89,Normal,Continue routine monitoring
+2026-08-18,Mill Shaft DE Bearing,86,Normal,Continue routine monitoring
+2026-08-19,Mill Shaft DE Bearing,86,Normal,Continue routine monitoring
+2026-08-20,Mill Shaft DE Bearing,84,Normal,Continue routine monitoring
+2026-08-21,Mill Shaft DE Bearing,84,Normal,Continue routine monitoring
+2026-08-22,Mill Shaft DE Bearing,84,Normal,Continue routine monitoring
+2026-08-23,Mill Shaft DE Bearing,84,Normal,Continue routine monitoring
+2026-08-24,Mill Shaft DE Bearing,81,Normal,Continue routine monitoring
+2026-08-25,Mill Shaft DE Bearing,80,Normal,Continue routine monitoring
+2026-08-26,Mill Shaft DE Bearing,79,Watch,Monitor trend
+2026-08-27,Mill Shaft DE Bearing,78,Watch,Monitor trend
+2026-08-28,Mill Shaft DE Bearing,78,Watch,Monitor trend
+2026-08-29,Mill Shaft DE Bearing,79,Watch,Monitor trend
+2026-08-30,Mill Shaft DE Bearing,77,Watch,Monitor trend
+2026-08-31,Mill Shaft DE Bearing,78,Watch,Monitor trend
+2026-09-01,Mill Shaft DE Bearing,74,Watch,Monitor trend
+2026-09-02,Mill Shaft DE Bearing,74,Watch,Monitor trend
+2026-09-03,Mill Shaft DE Bearing,74,Watch,Monitor trend
+2026-09-04,Mill Shaft DE Bearing,72,Watch,Monitor trend
+2026-09-05,Mill Shaft DE Bearing,71,Watch,Monitor trend
+2026-09-06,Mill Shaft DE Bearing,70,Watch,Monitor trend
+2026-09-07,Mill Shaft DE Bearing,71,Watch,Plan bearing inspection and lubrication review
+2026-09-08,Mill Shaft DE Bearing,68,Watch,Plan bearing inspection and lubrication review
+2026-09-09,Mill Shaft DE Bearing,67,Watch,Plan bearing inspection and lubrication review
+2026-09-10,Mill Shaft DE Bearing,67,Watch,Plan bearing inspection and lubrication review
+2026-09-11,Mill Shaft DE Bearing,68,Watch,Plan bearing inspection and lubrication review
+2026-09-12,Mill Shaft DE Bearing,65,Watch,Plan bearing inspection and lubrication review
+2026-09-13,Mill Shaft DE Bearing,64,Plan Maintenance,Plan bearing inspection and lubrication review
+2026-09-14,Mill Shaft DE Bearing,65,Watch,Plan bearing inspection and lubrication review
+2026-09-15,Mill Shaft DE Bearing,62,Plan Maintenance,Plan bearing inspection and lubrication review
+2026-09-16,Mill Shaft DE Bearing,63,Plan Maintenance,Plan bearing inspection and lubrication review
+2026-09-17,Mill Shaft DE Bearing,60,Plan Maintenance,Plan bearing inspection and lubrication review
+2026-09-18,Mill Shaft DE Bearing,60,Plan Maintenance,Plan bearing inspection and lubrication review
+2026-09-19,Mill Shaft DE Bearing,61,Plan Maintenance,Plan bearing inspection and lubrication review
+2026-09-20,Mill Shaft DE Bearing,59,Plan Maintenance,Plan bearing inspection and lubrication review
+2026-09-21,Mill Shaft DE Bearing,57,Plan Maintenance,Plan bearing inspection and lubrication review
+2026-09-22,Mill Shaft DE Bearing,58,Plan Maintenance,Plan bearing inspection and lubrication review
+2026-06-24,Gearbox,95,Normal,Continue routine monitoring
+2026-06-25,Gearbox,97,Normal,Continue routine monitoring
+2026-06-26,Gearbox,98,Normal,Continue routine monitoring
+2026-06-27,Gearbox,94,Normal,Continue routine monitoring
+2026-06-28,Gearbox,97,Normal,Continue routine monitoring
+2026-06-29,Gearbox,97,Normal,Continue routine monitoring
+2026-06-30,Gearbox,95,Normal,Continue routine monitoring
+2026-07-01,Gearbox,96,Normal,Continue routine monitoring
+2026-07-02,Gearbox,96,Normal,Continue routine monitoring
+2026-07-03,Gearbox,96,Normal,Continue routine monitoring
+2026-07-04,Gearbox,96,Normal,Continue routine monitoring
+2026-07-05,Gearbox,96,Normal,Continue routine monitoring
+2026-07-06,Gearbox,96,Normal,Continue routine monitoring
+2026-07-07,Gearbox,96,Normal,Continue routine monitoring
+2026-07-08,Gearbox,94,Normal,Continue routine monitoring
+2026-07-09,Gearbox,96,Normal,Continue routine monitoring
+2026-07-10,Gearbox,96,Normal,Continue routine monitoring
+2026-07-11,Gearbox,96,Normal,Continue routine monitoring
+2026-07-12,Gearbox,96,Normal,Continue routine monitoring
+2026-07-13,Gearbox,96,Normal,Continue routine monitoring
+2026-07-14,Gearbox,96,Normal,Continue routine monitoring
+2026-07-15,Gearbox,96,Normal,Continue routine monitoring
+2026-07-16,Gearbox,97,Normal,Continue routine monitoring
+2026-07-17,Gearbox,96,Normal,Continue routine monitoring
+2026-07-18,Gearbox,96,Normal,Continue routine monitoring
+2026-07-19,Gearbox,96,Normal,Continue routine monitoring
+2026-07-20,Gearbox,96,Normal,Continue routine monitoring
+2026-07-21,Gearbox,95,Normal,Continue routine monitoring
+2026-07-22,Gearbox,96,Normal,Continue routine monitoring
+2026-07-23,Gearbox,97,Normal,Continue routine monitoring
+2026-07-24,Gearbox,95,Normal,Continue routine monitoring
+2026-07-25,Gearbox,96,Normal,Continue routine monitoring
+2026-07-26,Gearbox,96,Normal,Continue routine monitoring
+2026-07-27,Gearbox,96,Normal,Continue routine monitoring
+2026-07-28,Gearbox,96,Normal,Continue routine monitoring
+2026-07-29,Gearbox,95,Normal,Continue routine monitoring
+2026-07-30,Gearbox,95,Normal,Continue routine monitoring
+2026-07-31,Gearbox,96,Normal,Continue routine monitoring
+2026-08-01,Gearbox,98,Normal,Continue routine monitoring
+2026-08-02,Gearbox,96,Normal,Continue routine monitoring
+2026-08-03,Gearbox,96,Normal,Continue routine monitoring
+2026-08-04,Gearbox,95,Normal,Continue routine monitoring
+2026-08-05,Gearbox,96,Normal,Continue routine monitoring
+2026-08-06,Gearbox,94,Normal,Continue routine monitoring
+2026-08-07,Gearbox,96,Normal,Continue routine monitoring
+2026-08-08,Gearbox,97,Normal,Continue routine monitoring
+2026-08-09,Gearbox,96,Normal,Continue routine monitoring
+2026-08-10,Gearbox,94,Normal,Continue routine monitoring
+2026-08-11,Gearbox,93,Normal,Continue routine monitoring
+2026-08-12,Gearbox,92,Normal,Continue routine monitoring
+2026-08-13,Gearbox,91,Normal,Continue routine monitoring
+2026-08-14,Gearbox,92,Normal,Continue routine monitoring
+2026-08-15,Gearbox,91,Normal,Continue routine monitoring
+2026-08-16,Gearbox,91,Normal,Continue routine monitoring
+2026-08-17,Gearbox,91,Normal,Continue routine monitoring
+2026-08-18,Gearbox,89,Normal,Continue routine monitoring
+2026-08-19,Gearbox,90,Normal,Continue routine monitoring
+2026-08-20,Gearbox,88,Normal,Continue routine monitoring
+2026-08-21,Gearbox,88,Normal,Continue routine monitoring
+2026-08-22,Gearbox,88,Normal,Continue routine monitoring
+2026-08-23,Gearbox,88,Normal,Continue routine monitoring
+2026-08-24,Gearbox,86,Normal,Continue routine monitoring
+2026-08-25,Gearbox,84,Normal,Continue routine monitoring
+2026-08-26,Gearbox,83,Normal,Continue routine monitoring
+2026-08-27,Gearbox,83,Normal,Continue routine monitoring
+2026-08-28,Gearbox,83,Normal,Continue routine monitoring
+2026-08-29,Gearbox,83,Normal,Continue routine monitoring
+2026-08-30,Gearbox,83,Normal,Continue routine monitoring
+2026-08-31,Gearbox,81,Normal,Continue routine monitoring
+2026-09-01,Gearbox,80,Normal,Continue routine monitoring
+2026-09-02,Gearbox,79,Watch,Monitor trend
+2026-09-03,Gearbox,79,Watch,Monitor trend
+2026-09-04,Gearbox,79,Watch,Monitor trend
+2026-09-05,Gearbox,77,Watch,Monitor trend
+2026-09-06,Gearbox,77,Watch,Monitor trend
+2026-09-07,Gearbox,76,Watch,Investigate trend and inspect gearbox lubrication
+2026-09-08,Gearbox,76,Watch,Investigate trend and inspect gearbox lubrication
+2026-09-09,Gearbox,77,Watch,Investigate trend and inspect gearbox lubrication
+2026-09-10,Gearbox,75,Watch,Investigate trend and inspect gearbox lubrication
+2026-09-11,Gearbox,74,Watch,Investigate trend and inspect gearbox lubrication
+2026-09-12,Gearbox,73,Watch,Investigate trend and inspect gearbox lubrication
+2026-09-13,Gearbox,74,Watch,Investigate trend and inspect gearbox lubrication
+2026-09-14,Gearbox,74,Watch,Investigate trend and inspect gearbox lubrication
+2026-09-15,Gearbox,72,Watch,Investigate trend and inspect gearbox lubrication
+2026-09-16,Gearbox,73,Watch,Investigate trend and inspect gearbox lubrication
+2026-09-17,Gearbox,71,Watch,Investigate trend and inspect gearbox lubrication
+2026-09-18,Gearbox,70,Watch,Investigate trend and inspect gearbox lubrication
+2026-09-19,Gearbox,69,Watch,Investigate trend and inspect gearbox lubrication
+2026-09-20,Gearbox,70,Watch,Investigate trend and inspect gearbox lubrication
+2026-09-21,Gearbox,70,Watch,Investigate trend and inspect gearbox lubrication
+2026-09-22,Gearbox,69,Watch,Investigate trend and inspect gearbox lubrication
+2026-06-24,Lube System,96,Normal,Continue routine monitoring
+2026-06-25,Lube System,96,Normal,Continue routine monitoring
+2026-06-26,Lube System,96,Normal,Continue routine monitoring
+2026-06-27,Lube System,96,Normal,Continue routine monitoring
+2026-06-28,Lube System,97,Normal,Continue routine monitoring
+2026-06-29,Lube System,96,Normal,Continue routine monitoring
+2026-06-30,Lube System,96,Normal,Continue routine monitoring
+2026-07-01,Lube System,97,Normal,Continue routine monitoring
+2026-07-02,Lube System,96,Normal,Continue routine monitoring
+2026-07-03,Lube System,96,Normal,Continue routine monitoring
+2026-07-04,Lube System,96,Normal,Continue routine monitoring
+2026-07-05,Lube System,96,Normal,Continue routine monitoring
+2026-07-06,Lube System,96,Normal,Continue routine monitoring
+2026-07-07,Lube System,96,Normal,Continue routine monitoring
+2026-07-08,Lube System,96,Normal,Continue routine monitoring
+2026-07-09,Lube System,96,Normal,Continue routine monitoring
+2026-07-10,Lube System,96,Normal,Continue routine monitoring
+2026-07-11,Lube System,97,Normal,Continue routine monitoring
+2026-07-12,Lube System,96,Normal,Continue routine monitoring
+2026-07-13,Lube System,96,Normal,Continue routine monitoring
+2026-07-14,Lube System,96,Normal,Continue routine monitoring
+2026-07-15,Lube System,96,Normal,Continue routine monitoring
+2026-07-16,Lube System,96,Normal,Continue routine monitoring
+2026-07-17,Lube System,97,Normal,Continue routine monitoring
+2026-07-18,Lube System,96,Normal,Continue routine monitoring
+2026-07-19,Lube System,95,Normal,Continue routine monitoring
+2026-07-20,Lube System,95,Normal,Continue routine monitoring
+2026-07-21,Lube System,96,Normal,Continue routine monitoring
+2026-07-22,Lube System,97,Normal,Continue routine monitoring
+2026-07-23,Lube System,96,Normal,Continue routine monitoring
+2026-07-24,Lube System,96,Normal,Continue routine monitoring
+2026-07-25,Lube System,97,Normal,Continue routine monitoring
+2026-07-26,Lube System,97,Normal,Continue routine monitoring
+2026-07-27,Lube System,97,Normal,Continue routine monitoring
+2026-07-28,Lube System,96,Normal,Continue routine monitoring
+2026-07-29,Lube System,97,Normal,Continue routine monitoring
+2026-07-30,Lube System,96,Normal,Continue routine monitoring
+2026-07-31,Lube System,95,Normal,Continue routine monitoring
+2026-08-01,Lube System,96,Normal,Continue routine monitoring
+2026-08-02,Lube System,97,Normal,Continue routine monitoring
+2026-08-03,Lube System,96,Normal,Continue routine monitoring
+2026-08-04,Lube System,97,Normal,Continue routine monitoring
+2026-08-05,Lube System,95,Normal,Continue routine monitoring
+2026-08-06,Lube System,94,Normal,Continue routine monitoring
+2026-08-07,Lube System,97,Normal,Continue routine monitoring
+2026-08-08,Lube System,95,Normal,Continue routine monitoring
+2026-08-09,Lube System,95,Normal,Continue routine monitoring
+2026-08-10,Lube System,94,Normal,Continue routine monitoring
+2026-08-11,Lube System,94,Normal,Continue routine monitoring
+2026-08-12,Lube System,95,Normal,Continue routine monitoring
+2026-08-13,Lube System,93,Normal,Continue routine monitoring
+2026-08-14,Lube System,92,Normal,Continue routine monitoring
+2026-08-15,Lube System,93,Normal,Continue routine monitoring
+2026-08-16,Lube System,93,Normal,Continue routine monitoring
+2026-08-17,Lube System,90,Normal,Continue routine monitoring
+2026-08-18,Lube System,91,Normal,Continue routine monitoring
+2026-08-19,Lube System,90,Normal,Continue routine monitoring
+2026-08-20,Lube System,88,Normal,Continue routine monitoring
+2026-08-21,Lube System,88,Normal,Continue routine monitoring
+2026-08-22,Lube System,88,Normal,Continue routine monitoring
+2026-08-23,Lube System,87,Normal,Continue routine monitoring
+2026-08-24,Lube System,88,Normal,Continue routine monitoring
+2026-08-25,Lube System,89,Normal,Continue routine monitoring
+2026-08-26,Lube System,87,Normal,Continue routine monitoring
+2026-08-27,Lube System,84,Normal,Continue routine monitoring
+2026-08-28,Lube System,87,Normal,Continue routine monitoring
+2026-08-29,Lube System,85,Normal,Continue routine monitoring
+2026-08-30,Lube System,84,Normal,Continue routine monitoring
+2026-08-31,Lube System,83,Normal,Continue routine monitoring
+2026-09-01,Lube System,82,Normal,Continue routine monitoring
+2026-09-02,Lube System,84,Normal,Continue routine monitoring
+2026-09-03,Lube System,82,Normal,Continue routine monitoring
+2026-09-04,Lube System,82,Normal,Continue routine monitoring
+2026-09-05,Lube System,81,Normal,Continue routine monitoring
+2026-09-06,Lube System,80,Normal,Continue routine monitoring
+2026-09-07,Lube System,81,Normal,"Verify pump duty, pressure and flow performance"
+2026-09-08,Lube System,79,Watch,"Verify pump duty, pressure and flow performance"
+2026-09-09,Lube System,78,Watch,"Verify pump duty, pressure and flow performance"
+2026-09-10,Lube System,78,Watch,"Verify pump duty, pressure and flow performance"
+2026-09-11,Lube System,78,Watch,"Verify pump duty, pressure and flow performance"
+2026-09-12,Lube System,76,Watch,"Verify pump duty, pressure and flow performance"
+2026-09-13,Lube System,78,Watch,"Verify pump duty, pressure and flow performance"
+2026-09-14,Lube System,75,Watch,"Verify pump duty, pressure and flow performance"
+2026-09-15,Lube System,76,Watch,"Verify pump duty, pressure and flow performance"
+2026-09-16,Lube System,75,Watch,"Verify pump duty, pressure and flow performance"
+2026-09-17,Lube System,76,Watch,"Verify pump duty, pressure and flow performance"
+2026-09-18,Lube System,75,Watch,"Verify pump duty, pressure and flow performance"
+2026-09-19,Lube System,74,Watch,"Verify pump duty, pressure and flow performance"
+2026-09-20,Lube System,75,Watch,"Verify pump duty, pressure and flow performance"
+2026-09-21,Lube System,72,Watch,"Verify pump duty, pressure and flow performance"
+2026-09-22,Lube System,71,Watch,"Verify pump duty, pressure and flow performance"

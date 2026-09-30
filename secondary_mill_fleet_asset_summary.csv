@@ -1,0 +1,9 @@
+asset,health_score,condition,recommended_action
+Motor NDE Bearing,94,Normal,Continue routine monitoring
+Motor DE Bearing,91,Normal,Continue routine monitoring
+Pinion NDE Bearing,76,Watch,Inspect at next planned shutdown
+Pinion DE Bearing,28,Urgent Review,Prepare controlled shutdown and urgent bearing inspection
+Mill Shaft NDE Bearing,89,Normal,Continue routine monitoring
+Mill Shaft DE Bearing,57,Plan Maintenance,Plan bearing inspection and lubrication review
+Gearbox,68,Watch,Investigate trend and inspect gearbox lubrication
+Lube System,72,Watch,"Verify pump duty, pressure and flow performance"
