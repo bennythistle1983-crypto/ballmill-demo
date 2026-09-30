@@ -1,0 +1,6 @@
+timestamp,asset,severity,evidence,recommended_action,status
+2026-08-16T08:00:00+00:00,Pinion DE Bearing,Advisory,Vibration trend above normal operating baseline,Inspect during next planned shutdown,Open
+2026-08-27T09:00:00+00:00,Pinion DE Bearing,Warning,Sustained vibration increase and rising bearing temperature,Schedule urgent inspection and verify lubrication performance,Open
+2026-09-08T07:00:00+00:00,Pinion DE Bearing,Critical,Vibration and temperature exceed illustrative critical limits,Prepare controlled shutdown; confirm spares and maintenance team,Open
+2026-09-18T06:00:00+00:00,Secondary Mill 01,Planned Shutdown,Condition risk unacceptable for continued operation,Stop mill safely and inspect DE Pinion Bearing and lubrication system,Planned
+2026-09-19T12:00:00+00:00,Pinion DE Bearing,Urgent Maintenance,Simulated bearing failure condition found during inspection,"Replace bearing, inspect alignment and restore lubrication",In Progress

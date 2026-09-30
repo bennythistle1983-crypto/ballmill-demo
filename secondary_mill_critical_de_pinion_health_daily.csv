@@ -1,0 +1,92 @@
+date,avg_temperature_c,avg_vibration_mm_s,health_score,condition,recommended_action
+2026-06-24,60.66,2.7,95,Normal,Continue routine monitoring
+2026-06-25,60.64,2.69,95,Normal,Continue routine monitoring
+2026-06-26,59.28,2.57,95,Normal,Continue routine monitoring
+2026-06-27,59.36,2.64,95,Normal,Continue routine monitoring
+2026-06-28,59.92,2.73,95,Normal,Continue routine monitoring
+2026-06-29,59.87,2.64,95,Normal,Continue routine monitoring
+2026-06-30,60.17,2.58,95,Normal,Continue routine monitoring
+2026-07-01,60.36,2.67,95,Normal,Continue routine monitoring
+2026-07-02,59.22,2.71,95,Normal,Continue routine monitoring
+2026-07-03,58.94,2.62,95,Normal,Continue routine monitoring
+2026-07-04,60.67,2.6,95,Normal,Continue routine monitoring
+2026-07-05,59.5,2.58,95,Normal,Continue routine monitoring
+2026-07-06,59.39,2.69,95,Normal,Continue routine monitoring
+2026-07-07,59.08,2.62,95,Normal,Continue routine monitoring
+2026-07-08,60.04,2.62,95,Normal,Continue routine monitoring
+2026-07-09,60.07,2.67,95,Normal,Continue routine monitoring
+2026-07-10,60.05,2.68,95,Normal,Continue routine monitoring
+2026-07-11,60.23,2.64,95,Normal,Continue routine monitoring
+2026-07-12,59.45,2.63,95,Normal,Continue routine monitoring
+2026-07-13,58.84,2.67,95,Normal,Continue routine monitoring
+2026-07-14,60.42,2.69,95,Normal,Continue routine monitoring
+2026-07-15,61.03,2.62,95,Normal,Continue routine monitoring
+2026-07-16,59.45,2.61,95,Normal,Continue routine monitoring
+2026-07-17,58.95,2.68,95,Normal,Continue routine monitoring
+2026-07-18,60.01,2.69,95,Normal,Continue routine monitoring
+2026-07-19,59.55,2.53,95,Normal,Continue routine monitoring
+2026-07-20,59.93,2.61,95,Normal,Continue routine monitoring
+2026-07-21,60.07,2.73,95,Normal,Continue routine monitoring
+2026-07-22,59.54,2.67,95,Normal,Continue routine monitoring
+2026-07-23,58.94,2.56,95,Normal,Continue routine monitoring
+2026-07-24,60.12,2.66,95,Normal,Continue routine monitoring
+2026-07-25,61.03,2.74,95,Normal,Continue routine monitoring
+2026-07-26,59.66,2.63,95,Normal,Continue routine monitoring
+2026-07-27,58.72,2.58,95,Normal,Continue routine monitoring
+2026-07-28,59.98,2.7,95,Normal,Continue routine monitoring
+2026-07-29,60.43,2.71,95,Normal,Continue routine monitoring
+2026-07-30,59.97,2.58,95,Normal,Continue routine monitoring
+2026-07-31,59.88,2.62,95,Normal,Continue routine monitoring
+2026-08-01,59.64,2.72,95,Normal,Continue routine monitoring
+2026-08-02,57.52,2.55,95,Normal,Continue routine monitoring
+2026-08-03,59.99,2.58,95,Normal,Continue routine monitoring
+2026-08-04,61.03,2.65,95,Normal,Continue routine monitoring
+2026-08-05,59.76,2.7,95,Normal,Continue routine monitoring
+2026-08-06,58.68,2.64,95,Normal,Continue routine monitoring
+2026-08-07,59.79,2.61,95,Normal,Continue routine monitoring
+2026-08-08,60.58,2.66,95,Normal,Continue routine monitoring
+2026-08-09,60.12,2.67,95,Normal,Continue routine monitoring
+2026-08-10,59.78,2.64,95,Normal,Continue routine monitoring
+2026-08-11,59.67,2.62,95,Normal,Continue routine monitoring
+2026-08-12,59.23,2.65,95,Normal,Continue routine monitoring
+2026-08-13,59.81,2.7,95,Normal,Continue routine monitoring
+2026-08-14,60.94,2.66,95,Normal,Continue routine monitoring
+2026-08-15,58.64,2.55,95,Normal,Continue routine monitoring
+2026-08-16,59.44,2.86,92,Normal,Continue routine monitoring
+2026-08-17,60.91,3.05,89,Normal,Continue routine monitoring
+2026-08-18,62.71,3.12,86,Normal,Continue routine monitoring
+2026-08-19,62.66,3.21,83,Normal,Continue routine monitoring
+2026-08-20,62.69,3.45,80,Normal,Continue routine monitoring
+2026-08-21,63.35,3.62,77,Investigate,Investigate bearing and lubrication condition
+2026-08-22,63.69,3.64,74,Investigate,Investigate bearing and lubrication condition
+2026-08-23,64.52,3.78,71,Investigate,Investigate bearing and lubrication condition
+2026-08-24,66.16,4.04,68,Investigate,Investigate bearing and lubrication condition
+2026-08-25,66.1,4.16,65,Investigate,Investigate bearing and lubrication condition
+2026-08-26,65.06,4.18,62,Investigate,Investigate bearing and lubrication condition
+2026-08-27,66.4,4.38,59,Plan Maintenance,Plan immediate maintenance intervention
+2026-08-28,68.44,4.63,56,Plan Maintenance,Plan immediate maintenance intervention
+2026-08-29,68.41,4.66,53,Plan Maintenance,Plan immediate maintenance intervention
+2026-08-30,66.08,4.49,50,Plan Maintenance,Plan immediate maintenance intervention
+2026-08-31,68.89,4.98,47,Plan Maintenance,Plan immediate maintenance intervention
+2026-09-01,69.38,5.16,44,Plan Maintenance,Plan immediate maintenance intervention
+2026-09-02,70.09,5.18,41,Plan Maintenance,Plan immediate maintenance intervention
+2026-09-03,71.66,5.32,38,Plan Maintenance,Plan immediate maintenance intervention
+2026-09-04,71.81,5.57,35,Plan Maintenance,Plan immediate maintenance intervention
+2026-09-05,70.9,5.68,32,Urgent Review,Stop mill safely and perform urgent bearing inspection
+2026-09-06,70.6,5.56,29,Urgent Review,Stop mill safely and perform urgent bearing inspection
+2026-09-07,74.02,5.91,26,Urgent Review,Stop mill safely and perform urgent bearing inspection
+2026-09-08,74.21,6.12,23,Urgent Review,Stop mill safely and perform urgent bearing inspection
+2026-09-09,73.49,6.22,20,Urgent Review,Stop mill safely and perform urgent bearing inspection
+2026-09-10,74.37,6.32,17,Urgent Review,Stop mill safely and perform urgent bearing inspection
+2026-09-11,75.26,6.49,14,Urgent Review,Stop mill safely and perform urgent bearing inspection
+2026-09-12,75.89,6.65,12,Urgent Review,Stop mill safely and perform urgent bearing inspection
+2026-09-13,77.04,6.79,12,Urgent Review,Stop mill safely and perform urgent bearing inspection
+2026-09-14,77.47,6.89,12,Urgent Review,Stop mill safely and perform urgent bearing inspection
+2026-09-15,76.76,7.02,12,Urgent Review,Stop mill safely and perform urgent bearing inspection
+2026-09-16,77.4,7.21,12,Urgent Review,Stop mill safely and perform urgent bearing inspection
+2026-09-17,79.63,7.35,12,Urgent Review,Stop mill safely and perform urgent bearing inspection
+2026-09-18,80.08,7.42,12,Urgent Review,Stop mill safely and perform urgent bearing inspection
+2026-09-19,31.01,0.26,12,Urgent Review,Stop mill safely and perform urgent bearing inspection
+2026-09-20,56.71,4.17,12,Urgent Review,Stop mill safely and perform urgent bearing inspection
+2026-09-21,79.59,7.54,12,Urgent Review,Stop mill safely and perform urgent bearing inspection
+2026-09-22,79.58,7.47,12,Urgent Review,Stop mill safely and perform urgent bearing inspection
